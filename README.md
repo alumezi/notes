@@ -5,3 +5,6 @@
 ### 23/11/22
 - [The difference between a Call Signature and a Function type Expression.](https://www.typescriptlang.org/docs/handbook/2/functions.html#call-signatures)
 - [React "MOUNTING" is just adding nodes to DOM](https://stackoverflow.com/a/31559566/7525907). 
+
+### 04/12/22
+- Array.prototype.at(), you can select elements from the end with negative indexes.
