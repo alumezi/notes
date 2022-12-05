@@ -7,4 +7,4 @@
 - [React "MOUNTING" is just adding nodes to DOM](https://stackoverflow.com/a/31559566/7525907). 
 
 ### 04/12/22
-- Array.prototype.at(), you can select elements from the end with negative indexes.
+- [Array.prototype.at(), you can select elements from the end with negative indexes.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at)
