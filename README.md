@@ -10,6 +10,6 @@
 - [Array.prototype.at(), you can select elements from the end with negative indexes.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at)
 
 
-### 04/12/22
+### 06/12/22
 - [How to clone a JavaScript object except for one key?]([https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment))
 
