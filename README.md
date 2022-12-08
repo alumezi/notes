@@ -13,3 +13,5 @@
 ### 06/12/22
 - [How to clone a JavaScript object except for one key?](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 
+### 08/12/22
+- [useEffect uses Object.is(), which means it does type conversion and does not handle NaN !==NaN, -0 === +0 values.](https://beta.reactjs.org/apis/react/useEffect#useeffect)
