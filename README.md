@@ -16,3 +16,6 @@
 ### 08/12/22
 - [useEffect uses Object.is(), which means it does type conversion and does not handle NaN !==NaN, -0 === +0 values.](https://beta.reactjs.org/apis/react/useEffect#useeffect)
 - [DynamoDB: Get the item that contains an array which in turn contains an element](https://stackoverflow.com/questions/36058134/dynamodb-scan-items-by-value-inside-array)
+
+### 10/01/23
+- [Optional chaining can be used to call a function if not undefined.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
