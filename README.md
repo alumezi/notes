@@ -19,3 +19,7 @@
 
 ### 10/01/23
 - [Optional chaining can be used to call a function if not undefined.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+
+### 20/01/23
+- [You can import types by using "Import type"](https://stackoverflow.com/a/64243357/7525907)
+- [eslint rule for the above](https://typescript-eslint.io/rules/consistent-type-imports)
