@@ -23,3 +23,6 @@
 ### 20/01/23
 - [You can import types by using `import type Foo from '...'`](https://stackoverflow.com/a/64243357/7525907)
 - [eslint rule for the above](https://typescript-eslint.io/rules/consistent-type-imports)
+
+### 21/01/23
+- [We can now deepCopy with structuredClone()](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
