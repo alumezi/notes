@@ -27,6 +27,4 @@
 
 ### 28/01/23
 - [tRPC share types on FE/BE](https://medium.com/@ixahmedxi/building-typesafe-apis-with-trpc-c2670285ff46)
-
-### 28/01/23
 - [With tRPC, you write TypeScript functions on your backend, and then call them from your frontend.](https://create.t3.gg/en/usage/trpc)
