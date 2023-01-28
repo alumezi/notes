@@ -1,4 +1,4 @@
-# jubilant-happiness
+# notes
 
 ## Adding to the list every time it clicks.
 
@@ -26,3 +26,7 @@
 
 ### 21/01/23
 - [We can now deepCopy with structuredClone()](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone)
+
+### 28/01/23
+- [tRPC share types on FE/BE](https://medium.com/@ixahmedxi/building-typesafe-apis-with-trpc-c2670285ff46)
+
